@@ -1,2 +1,14 @@
 # first_repository_2026
-this is going to be my first repository...hopefully we'll learn a lot from this! also first time using Git really...
+
+## General Information 
+
+
+## Data and File Information
+
+
+## Rendered Output
+
+
+
+
+
