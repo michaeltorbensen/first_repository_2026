@@ -8,12 +8,12 @@
 ## Data and File Information
 
 - describe files corresponding to data 
-- describe files corresposnding to code
- - (optional but nice) provide a tree diagram
+- describe files corresponding to code
+- (optional but nice) provide a tree diagram
 
 ## Rendered Output
 
-
+- link to any rendered PDF from QMD
 
 
 
